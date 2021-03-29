@@ -103,6 +103,6 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/zxdfe/zxdfe.github.io/resources
+  repo: https://github.com/zxdfe/2021-resource
   # example, https://github.com/hexojs/hexojs.github.io
-  branch: master  # gh-pages这里改为master
+  branch: gh-pages  # gh-pages这里改为master
